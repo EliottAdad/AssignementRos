@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AssignementRos
 This is an assignement to test the capabilities of the candidates of multinnov intern candidates.
 The assingement will be live coding and it's purpose will be to assess the programming awareness and 
@@ -56,4 +57,11 @@ The dependancies are :
     Good luck !!
 
  
+<<<<<<< HEAD
 (Assignement for intern v1.0)
+=======
+    
+=======
+# AssignementRos
+>>>>>>> 06c8787 (Initial commit)
+>>>>>>> 4dd1775 (Initial commit)

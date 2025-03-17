@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # AssignementRos
 This is an assignement to test the capabilities of the candidates of multinnov intern candidates.
 The assingement will be live coding and it's purpose will be to assess the programming awareness and 
@@ -32,7 +32,7 @@ The dependancies are :
              - The name of the sensor (char* or std::string)
              - An array of vector to store the datas of the image. It should be a contigous array of uint8_t since your grascale values are encoded on a byte.
              - An accessor method to read the value of a pixel from indexes .  
-             - A setter method to write the values of a pixel from indexex. 
+             - A setter method to write the values of a pixel from index. 
              - A **serialize** method to turn the image data structure into a bytestream
              - A **deserialize** method fill the data structure from a bytestream.
         
@@ -57,11 +57,4 @@ The dependancies are :
     Good luck !!
 
  
-<<<<<<< HEAD
-(Assignement for intern v1.0)
-=======
-    
-=======
-# AssignementRos
->>>>>>> 06c8787 (Initial commit)
->>>>>>> 4dd1775 (Initial commit)
+Assignement for intern v1.0

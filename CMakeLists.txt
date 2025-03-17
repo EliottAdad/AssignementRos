@@ -14,8 +14,8 @@ include_directories(
     ${Boost_INCLUDE_DIRS}
 )
 
-add_executable(test_IMAGE src/test_IMAGE.cpp src/Image.cpp )
-add_executable(test_IMAGELOGGER src/test_IMAGELOGGER.cpp src/Image.cpp src/ImageLogger.cpp src/ImageLogReader.cpp)
+add_executable(test_IMAGE src/test_IMAGE.cpp src/image.cpp )
+#add_executable(test_IMAGELOGGER src/test_IMAGELOGGER.cpp src/Image.cpp src/ImageLogger.cpp src/ImageLogReader.cpp)
 target_link_libraries(test_IMAGE ${OpenCV_LIBS} ${Boost_LIBRARIES})
-target_link_libraries(test_IMAGELOGGER ${OpenCV_LIBS} ${Boost_LIBRARIES})
+#target_link_libraries(test_IMAGELOGGER ${OpenCV_LIBS} ${Boost_LIBRARIES})
 
